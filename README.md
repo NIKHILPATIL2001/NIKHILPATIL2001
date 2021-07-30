@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NIKHILPATIL2001
 - 👀 I’m interested in PROGRAMMNING
-- 🌱 I’m currently learning PROGRASMMING
+- 🌱 I’m currently learning PROGRAMMING
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me
 
