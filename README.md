@@ -10,14 +10,8 @@ Hi, I'm Nikhil Patil, a passionate developer with experience building scalable f
 🛠 Automate workflows and enhance team productivity
 
 🧰 Tech Stack:
-Python Node.js Java SQL Server MySQL Flask Spring Boot Power BI HTML5 CSS3 JavaScript Bootstrap
+Python , Node.js , Java , SQL Server ,MySQL ,Flask ,Spring Boot ,Power BI ,HTML5 ,CSS3 , JavaScript  ,Bootstrap
 
-🌍 Projects:
-MIS Portal – Integrated real-time data from SAP, Audit, Compliance & Operation portals.
-
-Book Review System – Node.js-based API with JWT authentication and MySQL backend.
-
-O&M Dashboard – Visualized performance metrics using Power BI, Python, and SQL.
 
 📫 Let's Connect:
 📧 Email: connectnikhil14@gmail.com
