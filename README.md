@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @NIKHILPATIL2001
-- 👀 I’m interested in PROGRAMMNING
-- 🌱 I’m currently learning PROGRAMMING
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me
+Hi, I'm Nikhil Patil, a passionate developer with experience building scalable full-stack applications, dashboards, and automation tools. I specialize in creating efficient backends using Python (Flask), Node.js, and Spring Boot, and crafting responsive frontends with HTML5, CSS, JavaScript, and modern UI frameworks.
 
-<!---
-NIKHILPATIL2001/NIKHILPATIL2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💡 What I Do:
+✅ Build end-to-end dashboards and portals (MIS, Operational, Compliance)
+
+🧠 Design RESTful APIs & integrate SAP/SQL data pipelines
+
+📊 Visualize insights using Power BI and optimize performance
+
+🛠 Automate workflows and enhance team productivity
+
+🧰 Tech Stack:
+Python Node.js Java SQL Server MySQL Flask Spring Boot Power BI HTML5 CSS3 JavaScript Bootstrap
+
+🌍 Projects:
+MIS Portal – Integrated real-time data from SAP, Audit, Compliance & Operation portals.
+
+Book Review System – Node.js-based API with JWT authentication and MySQL backend.
+
+O&M Dashboard – Visualized performance metrics using Power BI, Python, and SQL.
+
+📫 Let's Connect:
+📧 Email: connectnikhil14@gmail.com
+🔗 LinkedIn: linkedin.com/in/nikhilpatil2001
