@@ -1,18 +1,47 @@
-Hi, I'm Nikhil Patil, a passionate developer with experience building scalable full-stack applications, dashboards, and automation tools. I specialize in creating efficient backends using Python (Flask), Node.js, and Spring Boot, and crafting responsive frontends with HTML5, CSS, JavaScript, and modern UI frameworks.
+# Nikhil Patil
 
-💡 What I Do:
-✅ Build end-to-end dashboards and portals (MIS, Operational, Compliance)
+**AI Engineer | Agentic AI | Multi-Agent Systems | LLM Applications**
 
-🧠 Design RESTful APIs & integrate SAP/SQL data pipelines
+---
 
-📊 Visualize insights using Power BI and optimize performance
+## About Me
+AI Engineer with 3+ years of experience in designing and deploying **production-grade intelligent systems**. 
 
-🛠 Automate workflows and enhance team productivity
+Specialized in building **agentic and multi-agent architectures** that automate complex workflows across domains such as fintech, cybersecurity, and enterprise intelligence.
 
-🧰 Tech Stack:
-Python , Node.js , Java , SQL Server ,MySQL ,Flask ,Spring Boot ,Power BI ,HTML5 ,CSS3 , JavaScript  ,Bootstrap
+Proven track record of delivering scalable AI solutions with a strong focus on reliability, performance, and real-world impact.
 
+---
 
-📫 Let's Connect:
-📧 Email: connectnikhil14@gmail.com
-🔗 LinkedIn: linkedin.com/in/nikhilpatil2001
+## Core Expertise
+- Agentic AI & Multi-Agent Systems  
+- Large Language Models (LLMs)  
+- Retrieval-Augmented Generation (RAG)  
+- AI Workflow Automation  
+- System Design for AI Applications  
+
+---
+
+## Technical Stack
+
+**Languages & Frameworks**  
+Python, FastAPI, Flask  
+
+**AI & Data**  
+OpenAI APIs, Claude, LangChain, LlamaIndex  
+
+**Infrastructure & Tools**  
+Docker, REST APIs, Vector Databases (FAISS, Pinecone)  
+
+---
+
+## Current Focus
+- Scalable agentic AI systems  
+- Autonomous decision-making architectures  
+- Enterprise-grade AI solutions  
+
+---
+
+## Contact
+- Email: connectnikhil14@gmail.com  
+- LinkedIn: (Add your profile link)
