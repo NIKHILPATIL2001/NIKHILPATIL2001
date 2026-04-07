@@ -44,4 +44,3 @@ Docker, REST APIs, Vector Databases (FAISS, Pinecone)
 
 ## Contact
 - Email: connectnikhil14@gmail.com  
-- LinkedIn: (Add your profile link)
