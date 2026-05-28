@@ -5,7 +5,7 @@
 ---
 
 ## About Me
-AI Engineer with 3+ years of experience in designing and deploying **production-grade intelligent systems**. 
+AI Engineer with 4+ years of experience in designing and deploying **production-grade intelligent systems**. 
 
 Specialized in building **agentic and multi-agent architectures** that automate complex workflows across domains such as fintech, cybersecurity, and enterprise intelligence.
 
